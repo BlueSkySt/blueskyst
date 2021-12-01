@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blueskyst&label=Profile%20views&color=0e75b6&style=flat" alt="blueskyst" /> </p>
 
-- 🔭 I’m currently working on **BlueSkyStealer (sorry stanley)**
+- 🔭 I’m currently working on **BlueSkyStealer**
 
 - 🌱 I’m currently learning **CyberSecurity / Pentesting**
 
